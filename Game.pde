@@ -1,4 +1,4 @@
-float depth = 2000;
+float depth = 1950;
 float rotateY, rotateX, rotateZ = 0;
 int plateWidth, plateDepth = 300;
 int plateHeight = 10;
